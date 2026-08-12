@@ -6,7 +6,7 @@ The project demonstrates core backend development concepts including **JWT authe
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### Authentication & Authorization
 
@@ -65,7 +65,7 @@ The project demonstrates core backend development concepts including **JWT authe
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 student-management-api/
