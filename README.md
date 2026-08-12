@@ -52,7 +52,7 @@ The project demonstrates core backend development concepts including **JWT authe
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Node.js**
 - **Express.js**
@@ -101,6 +101,6 @@ student-management-api/
 ---
 ## Author
 
-Muhammed Usman
-BS Computer Science
-FAST-NUCES
+**Muhammed Usman**
+**BS Computer Science**
+**FAST-NUCES**
